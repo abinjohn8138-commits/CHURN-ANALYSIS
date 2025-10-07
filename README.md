@@ -3,18 +3,18 @@ Here's a sample **README** content you can use or adapt for your project based o
 
 ---
 
-# 📊 Churn Analysis of Telecommunication Service
+#  Churn Analysis of Telecommunication Service
 
-## 📝 Overview
+##  Overview
 
 This project presents a visual and interactive analysis of customer churn in a telecommunication service company. The aim is to identify key factors contributing to customer churn and assist in decision-making for customer retention strategies.
 
-## 📁 File Description
+##  File Description
 
 * **Screenshot_2025-10-06_152430.png**
   This image contains a dashboard summarizing various aspects of customer churn using different filters and visualizations.
 
-## 📈 Dashboard Highlights
+##  Dashboard Highlights
 
 * **Churn by Gender & Internet Service**
   Compares churn rates across genders and types of internet service.
@@ -34,7 +34,7 @@ This project presents a visual and interactive analysis of customer churn in a t
 * **3D Column Chart**
   Compares total charges and monthly charges against churn status for visual impact.
 
-## 🎯 Filters Available
+##  Filters Available
 
 * **Multiple Lines**
 * **Phone Service**
@@ -46,18 +46,18 @@ This project presents a visual and interactive analysis of customer churn in a t
 
 These filters allow users to interactively explore data and identify patterns contributing to churn.
 
-## 💡 Key Insights
+##  Key Insights
 
 * Female and male customers show similar churn trends, but specific factors like "Internet Service Type" and "Monthly Charges" significantly affect churn.
 * Customers with fiber optic internet show higher churn rates.
 * Senior citizens and customers with higher monthly charges tend to churn more often.
 
-## 🛠 Tools Used
+##  Tools Used
 
 * **Microsoft Excel** (or similar spreadsheet tool)
 * Charts: Bar graphs, pie charts, box plots, 3D visualizations
 
-## 📌 Purpose
+##  Purpose
 
 This analysis helps:
 
